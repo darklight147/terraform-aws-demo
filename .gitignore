@@ -1,0 +1,21 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Crash log files
+crash.log
+
+# Override files as they are usually used to override resources locally and should not be committed
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# .tfstate files, which contain the current state of your infrastructure
+*.tfstate
+*.tfstate.*
+
+# .tfvars files, which contain variable definitions
+*.tfvars
+
+# Log files
+*.log
